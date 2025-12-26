@@ -1,0 +1,11 @@
+# Katalon Specific
+/bin/
+/Libs/
+/.classpath
+/.project
+/.settings/
+/Reports/
+/debug/
+/.cache/
+*.class
+*.apk

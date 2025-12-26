@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>UI_Login_Test</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>99c86c5c-ccb4-49ef-8d70-a0c2e194fc80</testCaseGuid>
+</TestCaseEntity>
